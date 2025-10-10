@@ -46,8 +46,7 @@ I’m passionate about solving real-world problems and actively looking for oppo
 
 | Project | Description | Tech Used | Demo |
 |---------|-------------|-----------|------|
-| [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB |[video-link]((https://drive.google.com/file/d/1nqynk7T3omzTwLk5Q1odDyn_D3urLc1Y/view?usp=sharing)
-)|
+| [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1nqynk7T3omzTwLk5Q1odDyn_D3urLc1Y/view?usp=sharing)|
 | [Certificate Verification on Blockchain](https://github.com/Spandana-MJ/CertVerify) | Verifies academic certificates using smart contracts on Ethereum. **Secure, decentralized verification**. | Solidity, Hardhat, React |[video-link](https://drive.google.com/file/d/1nqynk7T3omzTwLk5Q1odDyn_D3urLc1Y/view?usp=sharing)|
 | [Arecanut Quality Detection](#) | AI project to detect quality of arecanuts using YOLOv8. **~98% accuracy**, detects 4–5 nuts per image. | Python, Deep Learning
 
