@@ -43,10 +43,11 @@ I’m passionate about solving real-world problems and actively looking for oppo
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Used | Demo |
+| Project | Description | Tech Used | Demo |Live-Demo
 |---------|-------------|-----------|------|
-| [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1nqynk7T3omzTwLk5Q1odDyn_D3urLc1Y/view?usp=sharing)|
-| [Certificate Verification on Blockchain](https://github.com/Spandana-MJ/CertVerify) | Verifies academic certificates using smart contracts on Ethereum. **Secure, decentralized verification**. | Solidity, Hardhat, React |[video-link](https://drive.google.com/file/d/1nqynk7T3omzTwLk5Q1odDyn_D3urLc1Y/view?usp=sharing)|
+| [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/preview)|[Live-Demo](https://lost-found-gilt.vercel.app/)|
+| [BlogHub](https://github.com/Spandana-MJ/bloghub) | Built a modern blogging platform with a responsive UI, JWT authentication, blog management, commenting, and title-based search. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/preview)|[Live-Demo](https://bloghub-eight-alpha.vercel.app/)|
+| [Certificate Verification on Blockchain](https://github.com/Spandana-MJ/CertVerify) | Verifies academic certificates using smart contracts on Ethereum. **Secure, decentralized verification**. | Solidity, Hardhat, React |[video-link](https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/preview)|
 | [Arecanut Quality Detection](#) | AI project to detect quality of arecanuts using YOLOv8. **~98% accuracy**, detects 4–5 nuts per image. | Python, Deep Learning
 
 ---
@@ -62,12 +63,6 @@ Node.js ⚡⚡⚡⚡ | Express ⚡⚡⚡⚡ | MongoDB ⚡⚡⚡⚡
 **Blockchain & AI:**  
 Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡  
 
----
-
-## 🧾 Portfolio Screenshots
-
-![Portfolio Screenshot](assets/portfolio.png)  
-![Portfolio Screenshot](assets/portfolio-about.png)
 
 ---
 
@@ -80,7 +75,7 @@ Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio Website:** [portfolio-link.com](https://my-portfolio-alpha-one-48.vercel.app)  
+🌐 **Portfolio Website:** [portfolio-link.com](https://my-portfolio-alpha-one-48.vercel.app/)  
 💼 **LinkedIn:** [linkedin.com/in/spandana-mj](https://linkedin.com/in/Spandana-MJ)  
 📧 **Email:** spandanaspandumj@gmail.com  
 🐙 **GitHub:** [github.com/Spandana-MJ](https://github.com/Spandana-MJ)
