@@ -1,4 +1,5 @@
- # 👋 Hi, I'm Spandana Mj
+# ![Banner](assets/banner.jpg)  
+# 👋 Hi, I'm Spandana Mj
 
 👋 Hi, I’m Spandana, a software engineer building **full-stack applications, Blockchain DApps**.  
 I’m passionate about solving real-world problems and actively looking for opportunities to create impact through technology.
@@ -60,7 +61,7 @@ React ⚡⚡⚡⚡⚡ | Tailwind ⚡⚡⚡⚡ | JavaScript ⚡⚡⚡⚡
 Node.js ⚡⚡⚡⚡ | Express ⚡⚡⚡⚡ | MongoDB ⚡⚡⚡⚡  
 
 **Blockchain & AI:**  
-Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡  
+Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡ | Python ⚡⚡⚡⚡  
 
 ---
 
