@@ -1,3 +1,4 @@
+# ![Banner](assets/banner.jpg)  
 # 👋 Hi, I'm Spandana Mj
 
 👋 Hi, I’m Spandana, a software engineer building **full-stack applications, Blockchain DApps**.  
