@@ -48,9 +48,7 @@ I’m passionate about solving real-world problems and actively looking for oppo
 | [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB | [Video Link](https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/preview) | [Live Demo](https://lost-found-gilt.vercel.app/) |
 | [BlogHub](https://github.com/Spandana-MJ/bloghub) | Modern blogging platform with responsive UI, JWT authentication, blog management, commenting, and title-based search. | React, Node, MongoDB | [Video Link](https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/preview) | [Live Demo](https://bloghub-eight-alpha.vercel.app/) |
 | [Certificate Verification on Blockchain](https://github.com/Spandana-MJ/CertVerify) | Verifies academic certificates using smart contracts on Ethereum. **Secure, decentralized verification**. | Solidity, Hardhat, React | [Video Link](https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/preview) | — |
-| [Notes-Keeper-App](https://github.com/Spandana-MJ/Notes-Keeper-App) |A clean, modern, and responsive **Notes Keeper App** built using the **MERN Stack (MongoDB, Express, React, Node.js)** and styled with **TailwindCSS**.  
-Notes keeper app allows users to register, log in, and securely manage their personal notes with beautiful UI and dark mode support.
-|[video-link](https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/preview)| - | 
+| [Notes-Keeper-App](https://github.com/Spandana-MJ/Notes-Keeper-App) |A clean, modern, and responsive Notes keeper app allows users to register, log in, and securely manage their personal notes with beautiful UI and dark mode support.|React,Node,Express,MongoDB | [video-link](https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/preview)| - | 
 | [Arecanut Quality Detection](#) | AI project to detect quality of arecanuts using YOLOv8. **~98% accuracy**, detects 4–5 nuts per image. | Python, Deep Learning | — | — |
 
 
