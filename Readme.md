@@ -67,6 +67,7 @@ Modern blogging platform with secure authentication and blog management.
 🔗 Live: https://bloghub-eight-alpha.vercel.app/
 📂 GitHub: https://github.com/Spandana-MJ/bloghub 
 🎥 Video Demo: https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/view?usp=sharing
+
 ---
 
 ### 🎓 Certificate Verification on Blockchain
@@ -81,6 +82,7 @@ A decentralized application to verify academic certificates using Ethereum smart
 
 📂 GitHub: https://github.com/Spandana-MJ/CertVerify
 🎥 Video Demo:https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/view?usp=sharing
+
 ---
 
 ### 🧠 Arecanut Quality Detection (AI Project)
@@ -112,6 +114,7 @@ A clean and responsive full-stack Notes application with secure authentication a
 
 📂 GitHub: https://github.com/Spandana-MJ/Notes-Keeper-App
 🎥 Video Demo: https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/view?usp=sharing
+
 ---
 
 ## 📊 Skills
