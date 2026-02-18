@@ -43,16 +43,75 @@ I’m passionate about solving real-world problems and actively looking for oppo
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Used | Demo |
-|---------|-------------|-----------|------|
-| [Lost & Found System](https://github.com/Spandana-MJ/lost-found) | MERN app for reporting and verifying lost & found items. **User auth, admin dashboard, real-time updates**. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/preview)|[Live-Demo](https://lost-found-gilt.vercel.app/)|
-| [BlogHub](https://github.com/Spandana-MJ/bloghub) | Built a modern blogging platform with a responsive UI, JWT authentication, blog management, commenting, and title-based search. | React, Node, MongoDB |[video-link](https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/preview)|[Live-Demo](https://bloghub-eight-alpha.vercel.app/)|
-| [Certificate Verification on Blockchain](https://github.com/Spandana-MJ/CertVerify) | Verifies academic certificates using smart contracts on Ethereum. **Secure, decentralized verification**. | Solidity, Hardhat, React |[video-link](https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/preview)|
-| [Notes-Keeper-App](https://github.com/Spandana-MJ/Notes-Keeper-App) |A clean, modern, and responsive **Notes Keeper App** built using the **MERN Stack (MongoDB, Express, React, Node.js)** and styled with **TailwindCSS**.  
-Notes keeper app allows users to register, log in, and securely manage their personal notes with beautiful UI and dark mode support.
-|[video-link](https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/preview)|
-| [Arecanut Quality Detection](#) | AI project to detect quality of arecanuts using YOLOv8. **~98% accuracy**, detects 4–5 nuts per image. | Python, Deep Learning
+### 🎒 Lost & Found System
+MERN application for reporting and verifying lost items.
 
+- User authentication  
+- Admin dashboard  
+- Real-time updates  
+
+🔗 Live: https://lost-found-gilt.vercel.app/
+📂 GitHub: https://github.com/Spandana-MJ/lost-found
+🎥 Video Demo: https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/view?usp=sharing
+
+---
+
+### 📝 BlogHub (MERN Stack)
+Modern blogging platform with secure authentication and blog management.
+
+- JWT Authentication  
+- Blog CRUD operations  
+- Comment system  
+- Title-based search  
+
+🔗 Live: https://bloghub-eight-alpha.vercel.app/
+📂 GitHub: https://github.com/Spandana-MJ/bloghub 
+🎥 Video Demo: https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/view?usp=sharing
+---
+
+### 🎓 Certificate Verification on Blockchain
+A decentralized application to verify academic certificates using Ethereum smart contracts.
+
+**Key Features:**
+- Smart contracts written in Solidity
+- Immutable certificate storage on blockchain
+- Prevents fake certificate generation
+- Built using Hardhat for contract deployment
+- React frontend for verification interface
+
+📂 GitHub: https://github.com/Spandana-MJ/CertVerify
+🎥 Video Demo:https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/view?usp=sharing
+---
+
+### 🧠 Arecanut Quality Detection (AI Project)
+Deep learning system to detect arecanut quality using YOLOv8.
+
+**Key Features:**
+- Detects 4–5 arecanuts per image
+- ~98% model accuracy
+- Majority-based final grade classification
+- Built using Python & Deep Learning
+
+
+📂 GitHub: https://github.com/Spandana-MJ/arecanut-quality-grading-system
+🎥 Video Demo: https://drive.google.com/file/d/1MZi5XfS1lSOxVEM_t1Hf4k0e-iBKGc0r/view?usp=sharing
+
+---
+
+### 🗒️ Notes Keeper App (MERN Stack)
+A clean and responsive full-stack Notes application with secure authentication and modern UI.
+
+**Key Features:**
+- User Registration & Login
+- JWT Authentication
+- Create, Edit & Delete Notes (CRUD)
+- Protected routes for logged-in users
+- Responsive UI with TailwindCSS
+- Dark mode support
+
+
+📂 GitHub: https://github.com/Spandana-MJ/Notes-Keeper-App
+🎥 Video Demo: https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/view?usp=sharing
 ---
 
 ## 📊 Skills
@@ -69,10 +128,16 @@ Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡
 
 ---
 
-## 📈 GitHub Stats
-
-![Spandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spandana-MJ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandana-MJ&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Spandana-MJ&show_icons=true&theme=radical&cache_seconds=86400" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandana-MJ&layout=compact&theme=radical&cache_seconds=86400" 
+    height="165"
+  />
+</p>
 
 ---
 
