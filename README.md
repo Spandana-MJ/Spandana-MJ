@@ -26,14 +26,12 @@
 
 Final-year CSE student at **Canara Engineering College**, building scalable web applications and decentralized solutions. I love turning complex problems into clean, elegant interfaces — and I'm always exploring the intersection of AI and full-stack development.
 
-```js
-const spandana = {
-  focus:    ["Full Stack", "Blockchain DApps", "AI/ML"],
-  stack:    ["MERN", "Solidity", "YOLOv8"],
-  learning: ["Decentralized architectures", "AI-powered web apps"],
-  funFact:  "∞ lines of coffee consumed"
-};
-```
+| | |
+|---|---|
+| 🎯 **Focus** | Full Stack · Blockchain DApps · AI/ML |
+| 🛠 **Stack** | MERN · Solidity · YOLOv8 · Next.js |
+| 🌱 **Learning** | Decentralized architectures · AI-powered web apps |
+| ⚡ **Fun fact** | ∞ lines of coffee consumed |
 
 ---
 
@@ -42,6 +40,7 @@ const spandana = {
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
@@ -53,7 +52,13 @@ const spandana = {
 ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=a5b4fc)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4DB33D)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00758F)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00)
+
+**Auth & APIs**
+
+![NextAuth](https://img.shields.io/badge/NextAuth.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_Calendar_API-0D1117?style=flat-square&logo=google&logoColor=4285F4)
 
 **Blockchain & AI**
 
@@ -66,6 +71,7 @@ const spandana = {
 ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -117,7 +123,38 @@ const spandana = {
 
 ---
 
-### `05` — Notes Keeper App
+### `05` — Scheduler App *(Calendly Clone)*
+
+> Full-stack scheduling platform where users set their availability and share a booking link. Guests pick a time slot — a Google Calendar event is created automatically.
+
+`Next.js` `NextAuth.js` `MongoDB` `Google Calendar API` `Tailwind CSS`
+
+- 🔐 Email/password auth with protected dashboard
+- 📅 Define available days, time slots & meeting duration
+- 🔗 Public booking page at `/book/username`
+- 📆 Auto Google Calendar event creation on every booking
+
+[![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/calendly-clone-scheduler)
+
+---
+
+### `06` — Smart Bookmark
+
+> A smart bookmark manager built with Next.js App Router and Supabase — featuring Google Auth, realtime sync, and secure cross-tab logout.
+
+`Next.js` `Supabase` `Tailwind CSS` `Vercel`
+
+- 🔐 Google Authentication via Supabase
+- ⚡ Realtime bookmark updates with Supabase channels
+- 🔒 Secure logout synced across all open tabs
+- 📱 Fully responsive UI
+
+[![Live](https://img.shields.io/badge/Live_Demo-34d399?style=flat-square&logoColor=black)](https://smart-bookmark.vercel.app)
+[![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/smart-bookmark)
+
+---
+
+### `07` — Notes Keeper App
 
 > Clean, responsive full-stack notes application with secure JWT authentication, full CRUD, protected routes, and dark mode support.
 
