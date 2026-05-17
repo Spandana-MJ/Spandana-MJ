@@ -1,156 +1,148 @@
-# 👋 Hi, I'm Spandana Mj
+<div align="center">
 
-👋 Hi, I’m Spandana, a software engineer building **full-stack applications, Blockchain DApps**.  
-I’m passionate about solving real-world problems and actively looking for opportunities to create impact through technology.
+```
+███████╗███╗   ███╗     ██╗
+██╔════╝████╗ ████║     ██║
+███████╗██╔████╔██║     ██║
+╚════██║██║╚██╔╝██║██   ██║
+███████║██║ ╚═╝ ██║╚█████╔╝
+╚══════╝╚═╝     ╚═╝ ╚════╝
+```
 
----
+### Spandana M J
 
-## 🖥️ About Me
+`Full Stack Developer` · `Blockchain` · `AI/ML` · `CSE Final Year`
 
-🎓 Software engineer & web developer focused on creating **user-friendly applications**.  
-💡 Enjoy working on **MERN stack, Blockchain, and AI projects**.  
-🌱 Always learning new technologies and improving my skills.  
-⚡ Fun fact: I love turning ideas into real-world solutions!
+[![Portfolio](https://img.shields.io/badge/Portfolio-090914?style=for-the-badge&logo=vercel&logoColor=818cf8)](https://my-portfolio-alpha-one-48.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090914?style=for-the-badge&logo=linkedin&logoColor=34d399)](https://linkedin.com/in/spandana-mj)
+[![GitHub](https://img.shields.io/badge/GitHub-090914?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Spandana-MJ)
+[![Email](https://img.shields.io/badge/Email-090914?style=for-the-badge&logo=gmail&logoColor=f59e0b)](mailto:spandanaspandumj@gmail.com)
 
----
-
-## 🚀 Tech Stack
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
-
-**Database:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-
-**Blockchain:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?logo=ethereum&logoColor=white)  
-
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+</div>
 
 ---
 
-## 🌟 Featured Projects
+## `> about_me`
 
-### 🎒 Lost & Found System
-MERN application for reporting and verifying lost items.
+Final-year CSE student at **Canara Engineering College**, building scalable web applications and decentralized solutions. I love turning complex problems into clean, elegant interfaces — and I'm always exploring the intersection of AI and full-stack development.
 
-- User authentication  
-- Admin dashboard  
-- Real-time updates  
-
-🔗 Live: https://lost-found-gilt.vercel.app/
-📂 GitHub: https://github.com/Spandana-MJ/lost-found
-🎥 Video Demo: https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/view?usp=sharing
-
----
-
-### 📝 BlogHub (MERN Stack)
-Modern blogging platform with secure authentication and blog management.
-
-- JWT Authentication  
-- Blog CRUD operations  
-- Comment system  
-- Title-based search  
-
-🔗 Live: https://bloghub-eight-alpha.vercel.app/
-📂 GitHub: https://github.com/Spandana-MJ/bloghub 
-🎥 Video Demo: https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/view?usp=sharing
+```js
+const spandana = {
+  focus:    ["Full Stack", "Blockchain DApps", "AI/ML"],
+  stack:    ["MERN", "Solidity", "YOLOv8"],
+  learning: ["Decentralized architectures", "AI-powered web apps"],
+  funFact:  "∞ lines of coffee consumed"
+};
+```
 
 ---
 
-### 🎓 Certificate Verification on Blockchain
-A decentralized application to verify academic certificates using Ethereum smart contracts.
+## `> tech_stack`
 
-**Key Features:**
-- Smart contracts written in Solidity
-- Immutable certificate storage on blockchain
-- Prevents fake certificate generation
-- Built using Hardhat for contract deployment
-- React frontend for verification interface
+**Frontend**
 
-📂 GitHub: https://github.com/Spandana-MJ/CertVerify
-🎥 Video Demo:https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/view?usp=sharing
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 
----
+**Backend & Database**
 
-### 🧠 Arecanut Quality Detection (AI Project)
-Deep learning system to detect arecanut quality using YOLOv8.
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=a5b4fc)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=4DB33D)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00758F)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=E76F00)
 
-**Key Features:**
-- Detects 4–5 arecanuts per image
-- ~98% model accuracy
-- Majority-based final grade classification
-- Built using Python & Deep Learning
+**Blockchain & AI**
 
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=9b82f3)
+![Ethereum](https://img.shields.io/badge/Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=627EEA)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 
-📂 GitHub: https://github.com/Spandana-MJ/arecanut-quality-grading-system
-🎥 Video Demo: https://drive.google.com/file/d/1MZi5XfS1lSOxVEM_t1Hf4k0e-iBKGc0r/view?usp=sharing
+**Tools**
 
----
-
-### 🗒️ Notes Keeper App (MERN Stack)
-A clean and responsive full-stack Notes application with secure authentication and modern UI.
-
-**Key Features:**
-- User Registration & Login
-- JWT Authentication
-- Create, Edit & Delete Notes (CRUD)
-- Protected routes for logged-in users
-- Responsive UI with TailwindCSS
-- Dark mode support
-
-
-📂 GitHub: https://github.com/Spandana-MJ/Notes-Keeper-App
-🎥 Video Demo: https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/view?usp=sharing
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
 
-## 📊 Skills
+## `> selected_work`
 
-**Frontend:**  
-React ⚡⚡⚡⚡⚡ | Tailwind ⚡⚡⚡⚡ | JavaScript ⚡⚡⚡⚡  
+### `01` — Lost & Found Portal
 
-**Backend:**  
-Node.js ⚡⚡⚡⚡ | Express ⚡⚡⚡⚡ | MongoDB ⚡⚡⚡⚡  
+> A full-stack application where users can report or find lost items with real-time search, admin control, and image uploads.
 
-**Blockchain & AI:**  
-Solidity ⚡⚡⚡⚡ | YOLOv8 ⚡⚡⚡⚡   
+`React` `Node.js` `MongoDB` `Express`
 
-
----
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Spandana-MJ&show_icons=true&theme=radical&cache_seconds=86400" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandana-MJ&layout=compact&theme=radical&cache_seconds=86400" 
-    height="165"
-  />
-</p>
+[![Live](https://img.shields.io/badge/Live_Demo-818cf8?style=flat-square&logoColor=white)](https://lost-found-gilt.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/lost-found)
+[![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ywxdusUf0LhL1RfEeBKUj-UMS70JCM5-/view?usp=sharing)
 
 ---
 
-## 📫 Connect With Me
+### `02` — BlogHub
 
-🌐 **Portfolio Website:** [portfolio-link.com](https://my-portfolio-alpha-one-48.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/spandana-mj](https://linkedin.com/in/Spandana-MJ)  
-📧 **Email:** spandanaspandumj@gmail.com  
-🐙 **GitHub:** [github.com/Spandana-MJ](https://github.com/Spandana-MJ)
+> A full-featured blogging platform with authentication, Cloudinary media uploads, rich text editing, and comment threads.
+
+`MERN Stack` `Cloudinary` `JWT`
+
+[![Live](https://img.shields.io/badge/Live_Demo-34d399?style=flat-square&logoColor=black)](https://bloghub-eight-alpha.vercel.app/)
+[![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/bloghub)
+[![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_j7tahV4mfY6XK27yaB2fUy_ebk8aeGz/view?usp=sharing)
 
 ---
 
-⭐ *If you like my work, consider giving this repo a star!*  
+### `03` — Blockchain Certificate Verification
+
+> Decentralized application to issue and verify certificates on-chain using Ethereum smart contracts and IPFS storage. Prevents fake certificate generation with immutable on-chain records.
+
+`Ethereum` `Solidity` `IPFS` `Hardhat` `React`
+
+[![Code](https://img.shields.io/badge/Source-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/CertVerify)
+[![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/view?usp=sharing)
+
+---
+
+### `04` — Arecanut Quality Grading
+
+> AI-powered grading system using YOLOv8 for automated quality classification of arecanuts with real-time detection. ~98% model accuracy with majority-based final grade classification.
+
+`YOLOv8` `Python` `Deep Learning`
+
+[![Code](https://img.shields.io/badge/Source-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/Spandana-MJ/arecanut-quality-grading-system)
+[![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1MZi5XfS1lSOxVEM_t1Hf4k0e-iBKGc0r/view?usp=sharing)
+
+---
+
+### `05` — Notes Keeper App
+
+> Clean, responsive full-stack notes application with secure JWT authentication, full CRUD, protected routes, and dark mode support.
+
+`MERN Stack` `JWT` `TailwindCSS`
+
+[![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/Notes-Keeper-App)
+[![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1RRT5-TiXeMfWXdaQB_FnySzpp4OrhAad/view?usp=sharing)
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Spandana-MJ&show_icons=true&theme=radical&hide_border=true&bg_color=090914&title_color=818cf8&icon_color=34d399&text_color=e2e8f0" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spandana-MJ&layout=compact&theme=radical&hide_border=true&bg_color=090914&title_color=818cf8&text_color=e2e8f0" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+`Open to new opportunities · Inbox always open`
+
+**[spandanaspandumj@gmail.com](mailto:spandanaspandumj@gmail.com)**
+
+</div>
