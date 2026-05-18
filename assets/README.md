@@ -106,6 +106,7 @@ Final-year CSE student at **Canara Engineering College**, building scalable web 
 > Decentralized application to issue and verify certificates on-chain using Ethereum smart contracts and IPFS storage. Prevents fake certificate generation with immutable on-chain records.
 
 `Ethereum` `Solidity` `IPFS` `Hardhat` `React`
+
 [![Live](https://img.shields.io/badge/Live_Demo-818cf8?style=flat-square&logoColor=white)](https://cert-verify-rouge.vercel.app/)
 [![Code](https://img.shields.io/badge/Source-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/CertVerify)
 [![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1s7z06F7njh0jSnfZPbr77zOytIaAHj0p/view?usp=sharing)
@@ -117,6 +118,7 @@ Final-year CSE student at **Canara Engineering College**, building scalable web 
 > AI-powered grading system using YOLOv8 for automated quality classification of arecanuts with real-time detection. ~98% model accuracy with majority-based final grade classification.
 
 `YOLOv8` `Python` `Deep Learning`
+
 [![Live](https://img.shields.io/badge/Live_Demo-34d399?style=flat-square&logoColor=black)](https://arecanut-grading.vercel.app/login)
 [![Code](https://img.shields.io/badge/Source-f59e0b?style=flat-square&logo=github&logoColor=black)](https://github.com/Spandana-MJ/arecanut-quality-grading-system)
 [![Video](https://img.shields.io/badge/Video_Demo-0D1117?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1MZi5XfS1lSOxVEM_t1Hf4k0e-iBKGc0r/view?usp=sharing)
