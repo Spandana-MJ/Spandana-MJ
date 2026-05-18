@@ -135,6 +135,7 @@ Final-year CSE student at **Canara Engineering College**, building scalable web 
 - 📅 Define available days, time slots & meeting duration
 - 🔗 Public booking page at `/book/username`
 - 📆 Auto Google Calendar event creation on every booking
+
 [![Live](https://img.shields.io/badge/Live_Demo-818cf8?style=flat-square&logoColor=white)](https://calendly-clone-scheduler.vercel.app/)
 [![Code](https://img.shields.io/badge/Source-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Spandana-MJ/calendly-clone-scheduler)
 
